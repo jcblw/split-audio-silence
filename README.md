@@ -1,5 +1,7 @@
 # split audio silence
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jcblw/split-audio-silence.svg)](https://greenkeeper.io/)
+
 split audio silence takes an mp3 stream and is separates the audio buffer into multiple audio buffers and manifest to be able to stitch those files back together with the silence.
 
 ```js
