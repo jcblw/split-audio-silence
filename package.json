@@ -1,6 +1,6 @@
 {
   "name": "split-audio-silence",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "split up a long audio with pauses to a smaller audio files",
   "main": "index.js",
   "scripts": {
